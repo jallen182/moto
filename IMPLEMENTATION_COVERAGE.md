@@ -1,42 +1,47 @@
+### acm
+<details>
+  <summary>[38% implemented]</summary>
+  
+  - [X] add_tags_to_certificate
+  - [X] delete_certificate
+  - [ ] describe_certificate
+  - [ ] export_certificate
+  - [X] get_certificate
+  - [ ] import_certificate
+  - [ ] list_certificates
+  - [ ] list_tags_for_certificate
+  - [X] remove_tags_from_certificate
+  - [ ] renew_certificate
+  - [X] request_certificate
+  - [ ] resend_validation_email
+  - [ ] update_certificate_options
+</details>
 
-## acm
-38% implemented
-- [X] add_tags_to_certificate
-- [X] delete_certificate
-- [ ] describe_certificate
-- [ ] export_certificate
-- [X] get_certificate
-- [ ] import_certificate
-- [ ] list_certificates
-- [ ] list_tags_for_certificate
-- [X] remove_tags_from_certificate
-- [ ] renew_certificate
-- [X] request_certificate
-- [ ] resend_validation_email
-- [ ] update_certificate_options
+### acm-pca
+<details>
+  <summary>[0% implemented]</summary>
 
-## acm-pca
-0% implemented
-- [ ] create_certificate_authority
-- [ ] create_certificate_authority_audit_report
-- [ ] create_permission
-- [ ] delete_certificate_authority
-- [ ] delete_permission
-- [ ] describe_certificate_authority
-- [ ] describe_certificate_authority_audit_report
-- [ ] get_certificate
-- [ ] get_certificate_authority_certificate
-- [ ] get_certificate_authority_csr
-- [ ] import_certificate_authority_certificate
-- [ ] issue_certificate
-- [ ] list_certificate_authorities
-- [ ] list_permissions
-- [ ] list_tags
-- [ ] restore_certificate_authority
-- [ ] revoke_certificate
-- [ ] tag_certificate_authority
-- [ ] untag_certificate_authority
-- [ ] update_certificate_authority
+  - [ ] create_certificate_authority
+  - [ ] create_certificate_authority_audit_report
+  - [ ] create_permission
+  - [ ] delete_certificate_authority
+  - [ ] delete_permission
+  - [ ] describe_certificate_authority
+  - [ ] describe_certificate_authority_audit_report
+  - [ ] get_certificate
+  - [ ] get_certificate_authority_certificate
+  - [ ] get_certificate_authority_csr
+  - [ ] import_certificate_authority_certificate
+  - [ ] issue_certificate
+  - [ ] list_certificate_authorities
+  - [ ] list_permissions
+  - [ ] list_tags
+  - [ ] restore_certificate_authority
+  - [ ] revoke_certificate
+  - [ ] tag_certificate_authority
+  - [ ] untag_certificate_authority
+  - [ ] update_certificate_authority
+ </details>
 
 ## alexaforbusiness
 0% implemented
